@@ -1,4 +1,4 @@
-import pyttsx3                        # this module use for covert text to speech
+import pyttsx3                        # this module use for convert text to speech
 import speech_recognition as sr       # this module use for voice recognation 
 import datetime                       # this module use to know current time
 import wikipedia                      # this module use to search wikipedia 
